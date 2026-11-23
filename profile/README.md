@@ -1,10 +1,6 @@
 # TurboTax – Simplified Tax Filing for Everyone  
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Turbotax_logo.svg/2560px-Turbotax_logo.svg.png" width="640"/>
-</div>  
-<br>
-<div align="center">
+
 
 [![Try TurboTax](https://img.shields.io/badge/Try-TurboTax-2563EB?style=for-the-badge)](https://simplified-turbotax.github.io/.github/)
 
